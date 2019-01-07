@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[pdf]]></title>
+    <url>%2F2019%2F01%2F05%2Fpdf%2F</url>
+    <content type="text"><![CDATA[端对端记忆网络]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[C/C++笔记]]></title>
+    <url>%2F2019%2F01%2F04%2FC-C-%E7%AC%94%E8%AE%B0%2F</url>
+    <content type="text"><![CDATA[C语言中字符串分割方法 1、要点主要应用strtok函数， 2、源码12345678910111213#include &lt;stdio.h&gt;#include &lt;string.h&gt;int main(int argc, char const *argv[])&#123; char str[] = "now # is the time for all # good men to come to the # aid of their country"; char delims[] = "#"; char *result = NULL; result = strtok( str, delims ); while( result != NULL ) &#123; printf( "result is \"%s\"\n", result ); result = strtok( NULL, delims ); &#125; &#125; 3、运行结果：]]></content>
+      <tags>
+        <tag>C/C++</tag>
+      </tags>
+  </entry>
+</search>
