@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[pdf]]></title>
-    <url>%2F2019%2F01%2F05%2Fpdf%2F</url>
-    <content type="text"><![CDATA[端对端记忆网络]]></content>
-      <tags>
-        <tag>test</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[C/C++笔记]]></title>
-    <url>%2F2019%2F01%2F04%2FC-C-%E7%AC%94%E8%AE%B0%2F</url>
-    <content type="text"><![CDATA[C语言中字符串分割方法 1、要点主要应用strtok函数， 2、源码12345678910111213#include &lt;stdio.h&gt;#include &lt;string.h&gt;int main(int argc, char const *argv[])&#123; char str[] = "now # is the time for all # good men to come to the # aid of their country"; char delims[] = "#"; char *result = NULL; result = strtok( str, delims ); while( result != NULL ) &#123; printf( "result is \"%s\"\n", result ); result = strtok( NULL, delims ); &#125; &#125; 3、运行结果：]]></content>
-      <tags>
-        <tag>C/C++</tag>
-      </tags>
+    <title><![CDATA[自律]]></title>
+    <url>%2F2019%2F03%2F05%2F%E8%87%AA%E5%BE%8B%2F</url>
+    <content type="text"><![CDATA[如何自律心得一：自律不能一步到位所以从今天开始，扔掉那些写的太满的计划，先从一件小事做起，中途断过也没关系，这不意味着失败，做好了就奖励自己，没做好也别自责。当这件事养成习惯以后，你会发现自己可以毫不费力的坚持它了。 心得二：你要远离诱惑无论任何时候，你都要主动远离诱惑，就像不要考验人性一样，也不要考验自己的意志力。它们都是禁不起考验的。 心得三：自律与你的身体状态有关事实上，你的身体状态，会极大影响你的意志、情绪、智力等等能力。有没有发现，当你没睡够的时候，会变得很容易发脾气，处理工作也容易走神，应该做的事情也不想去做。当我意识到这一点的时候，我就开始非常注意休息，因为只有身体得到良好的休息，才有足够的精力去处理工作。 这里的休息，包括很多方面： 早睡早起 中午小憩，但不会超过30分钟 体育锻炼 周末彻底放下工作，去做一些不消耗太多精力的事情 听音乐]]></content>
   </entry>
 </search>
